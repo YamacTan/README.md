@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Software Development/Engineering**
 
-- 🌱 I’m currently learning **Full Stack Development and Related Backend Frameworks**
+- 🌱 I’m currently learning **Javascript and Related Backend Frameworks**
 
-- 📚 My research interests are **Artificial Intelligence, Machine Learning, Computer Vision, Internet of Things and Unmanned Vehicles**
+- 📚 My current research interests are **Avionics, Artificial Intelligence, Machine Learning, Computer Vision, Internet of Things and Unmanned Vehicles**
 
 - 💬 Ask me about **NVIDIA Jetson Systems and Swarm Flight Algorithms**
 
