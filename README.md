@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yamaç</h1>
 <h3 align="center">Electrical-Electronics Engineer, BSc</h3>
 
-- 🔭 I’m currently working on **Software Development/Engineering**
+- 🔭 I’m currently working on **Software Engineering**
 
-- 🌱 I’m currently learning **Javascript and Related Backend Frameworks**
+- 🌱 I’m currently learning **Javascript and Full Stack Software Development**
 
 - 📚 My current research interests are **Avionics, Artificial Intelligence, Machine Learning, Computer Vision, Internet of Things and Unmanned Vehicles**
 
