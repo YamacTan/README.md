@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Software Engineering**
 
-- 🌱 I’m currently learning **Javascript and Full Stack Software Development**
+- 🌱 I’m currently learning **Javascript and Tensorflow**
 
-- 📚 My current research interests are **Avionics, Artificial Intelligence, Machine Learning, Computer Vision, Internet of Things and Unmanned Vehicles**
+- 📚 My current research interests are **Avionics, Artificial Intelligence, Machine Learning, Computer Vision, Big Data, IoT and Unmanned Vehicles**
 
-- 💬 Ask me about **NVIDIA Jetson Systems and Swarm Flight Algorithms**
+- 💬 Ask me about ** Python, MATLAB, NVIDIA Jetson Systems and Swarm Flight Algorithms**
 
 - 📫 How to reach me **yamac.tan@gmail.com**
 
