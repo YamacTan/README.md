@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software Engineering**
 
-- 🌱 I’m currently learning **Javascript and Tensorflow**
+- 🌱 I’m currently learning **Data Science and MAchine Learning**
 
 - 📚 My current research interests are **Avionics, Artificial Intelligence, Machine Learning, Computer Vision, Big Data, IoT and Unmanned Vehicles**
 
