@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **AI Software Engineer - Data Scientist**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development** and **DevOps Engineering**
 
 - 📚 My current research interests are **Artificial Intelligence, Machine Learning, Computer Vision and Data Science**
 
