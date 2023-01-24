@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Cloud Engineer**
 
-- 🌱 I’m currently learning **Full Stack Development**, **DevOps Engineering** and **Cloud Engineering**
+- 🌱 I’m currently learning **DevOps Engineering** , **Cloud Engineering** and **Full Stack Development**
 
 - 📚 My current research interests are **Artificial Intelligence, Machine Learning, Computer Vision and Data Science**
 
