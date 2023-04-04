@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yamaç</h1>
 <h3 align="center">MSc. Student in Computer Engineering, Electrical-Electronics Engineer, BSc.</h3>
 
-- 🔭 I’m currently working as **Cloud Engineer**
+- 🔭 I’m currently working as **Cloud&DevOps Engineer at Turk Telekom**
 
 - 🌱 I’m currently learning **DevOps Engineering** , **Cloud Engineering** and **Full Stack Development**
 
