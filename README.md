@@ -201,9 +201,6 @@
 
 ###
 
-<h3 align="center">😂Random Meme of the Day:</h3>
-
-###
 
 <div align="center">
   <img height="400" src="https://randommeme-five.vercel.app/"  />
