@@ -200,10 +200,3 @@
 </div>
 
 ###
-
-
-<div align="center">
-  <img height="400" src="https://randommeme-five.vercel.app/"  />
-</div>
-
-###
