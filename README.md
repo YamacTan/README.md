@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 Working as <strong>Cloud&DevOps Engineer @Turk Telekom</strong><br><br>    🌱 Currently learning <strong>Public Cloud Tech and Full Stack Development.</strong><br><br>    📚 Still an active researcher who is looking for PhD opportunities with interests in <strong>Machine Learning, Deep Learning, Computer Vision, and Data Science.</strong></p>
+<p align="left">🔭 Working as <strong>DevOps Engineer @TurkNet</strong><br><br>    🌱 Currently learning <strong>Public Cloud Tech and Full Stack Development.</strong><br><br>    📚 Still an active researcher who is looking for PhD opportunities with interests in <strong>Machine Learning, Deep Learning, Computer Vision, and Data Science.</strong></p>
 
 ###
 
